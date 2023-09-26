@@ -1,0 +1,73 @@
+{
+	"first names" : {
+		"Akorosi":["Acabey", "Adella", "Adriana", "Adric", "Aldo", "Alyce", "Andrel", "Andrew", "Andrine", "Anna", "Anwill", "Arden", "Arlyn", "Arquo", "Arvus", "Ashlyn", "Asle", "Avery", "Behnam", "Bethia", "Billy", "Bodgan", "Brace", "Brance", "Branon", "Brena", "Cadarn", "Candra", "Carissa", "Carro", "Casslyn", "Catherine", "Cavelle", "Cemil", "Clare", "Clave", "Corille", "Craita", "Crina", "Cristoph", "Crowley", "Cyrene", "Daphnia", "Darcie", "Darragh", "Drav", "Eale", "Edlun", "Edwarde", "Edwina", "Elena", "Elisabeth", "Elizabeth", "Elspeth", "Emeline", "Erberk", "Evelyn", "Faith", "Feodore", "Florence", "Gabi", "Gard", "Gregory", "Greta", "Grine", "Grissell", "Hanna", "Harland", "Harry", "Helen", "Helles", "Henning", "Henrie", "Hix", "Holtz", "Horace", "Hortence", "Hugo", "Ilena", "Johannes", "Jonathan", "Josian", "Judithe", "Kacey", "Kamelin", "Kelyr", "Kevin", "Kobb", "Kristine", "Kristoffer", "Kristov", "Laudius", "Lauria", "Lenia", "Lennox", "Leo", "Lida", "Lizete", "Lola", "Lorette", "Lucas", "Lucella", "Lyall", "Lynthia", "Mads", "Mara", "Marcus", "Margerie", "Mariann", "Mark", "Marte", "Martha", "Mary", "Matilda", "Merlin", "Mette", "Michael", "Mihail", "Miller", "Millicent", "Milos", "Mina", "Monika", "Morlan", "Myre", "Narcus", "Naria", "Nathaniell", "Noggs", "Olivia", "Orlan", "Owen", "Patrick", "Paul", "Peyton", "Phin", "Phoebe", "Piers", "Piper", "Polonia", "Quess", "Rachel", "Raphe", "Remira", "Renate", "Richard", "Riley", "Ring", "Robin", "Roethe", "Roland", "Salman", "Samuel", "Scott", "Seth", "Sonia", "Stavrul", "Steffan", "Stephana", "Stephen", "Stev", "Susanna", "Talitha", "Tesslyn", "Thea", "Thena", "Theodore", "Theophilus", "Thomasin", "Timoth", "Tobias", "Tocker", "Tom", "Tommy", "Trude", "Veleris", "Veretta", "Vestine", "Vey", "Volette", "Weaver", "Wester", "Wil", "Willie", "Willow", "Wilmot", "Zach", "Zacharia"],	
+		"Skovlander":["Aaron", "Åge", "Aine", "Aisling", "Amosen", "Aoibhe", "Aoibheann", "Aoife", "Arngunnur", "Asbjørn", "Åse", "Åshild", "Astrid", "Audhild", "Aushedar", "Barry", "Bjorn", "Borghild", "Brandon", "Brena", "Brendan", "Brian", "Bronagh", "Cadarn", "Cadhla", "Caoimhe", "Cathal", "Cedwyn", "Cian", "Ciara", "Ciaran", "Cliodhna", "Clodagh", "Colm", "Conan", "Cormac", "Cranog", "Dagfinn", "Dagny", "Darragh", "Deirdre", "Eabha", "Edwina", "Eimear", "Einar", "Eirin", "Eithne", "Emer", "Engilbjartur", "Eoin", "Fergal", "Fionn", "Fred", "Frida", "Glod", "Gøran", "Grainne", "Grete", "Gunnar", "Gwri", "Gwyndaf", "Harald", "Heidbjoerk", "Helma", "Herborg", "Imogen", "Inga", "Ingileifur", "Jonas", "Jørn", "Karl", "Kayleigh", "Kobb", "Kristin", "Lars", "Lorcan", "Mads", "Magnhild", "Mairead", "Meabh", "Muirne", "Nessa", "Niall", "Oddmund", "Ofydd", "Oisin", "Onagh", "Orlaith", "Oscar", "Padraig", "Ragnhild", "Roisin", "Ruairi", "Ryan", "Shane", "Shannon", "Shauna", "Sigmund", "Sigmunda", "Silje", "Sinead", "Skannon", "Skylar", "Solbjørg", "Sven", "Sverre", "Sylvi", "Torild", "Torstein", "Ulf", "Vond"],
+		"Iruvian":["Ahnav", "Aiz", "Amir", "Amoud", "Aniya", "Anva", "Arjun", "Arkash", "Asal", "Ata", "Ay", "Ayan", "Azara", "Badan", "Baya", "Bhaskar", "D'ruva", "Ekim", "Elesh", "Elesha", "Elwafil", "Esha", "Eva", "Evi", "Fahime", "Fatma", "Hadeja", "Hakan", "Hanesh", "Haran", "Iana", "Iku", "Iosif", "Isak", "Isha", "Izu", "Jahan", "Javeed", "Jaya", "Jin", "Kahan", "Kahara", "Kai", "Kan", "Kabir", "Karim", "Kavira", "Ket", "Keta", "Kiara", "Kiyanoosh", "Kos", "Kotar", "Kotara", "Kyra", "La'ana", "Lasa", "Lekat", "Lenaya", "Lor", "Ma'ana", "Marek", "Marit", "Mata", "Meriama", "Mita", "Mo'an", "Muhan", "Musa", "Na'ava", "Nalan", "Nashala", "Nastaran", "Nav", "Navya", "Nek'set", "Niradhara", "Niru", "Ozel", "Parisa", "Partha", "Parvin", "Pegah", "Pooran", "Rashid", "Rahan", "Raja", "Ro", "Ro'an", "Ruka", "Rukon", "S'rata", "Sa'ana", "Sanja", "Sarha", "Seda", "Sefa", "Seth", "Sethla", "Sevra", "Sindre", "Su'ua", "Subodh", "Suhin", "Syra", "Ta'amet", "Taji", "Tukara", "Una", "Urmila", "Usa", "Useth", "Uta", "Vaha", "Vanya", "Vara", "Vidvan", "Von", "Vondu", "Zamira", "Zarha", "Zora"],
+		"Dagger Islander":["Amber", "André", "Annette", "Aray", "Axiell", "Bennuet", "Benton", "Boldizsar", "Brione", "Canard", "Cantrice", "Caryne", "Coralin", "Damon", "Dandras", "Daniel", "Darnay", "Dedrian", "Delmar", "Deven", "Dewan", "Elain", "Ennis", "Esme", "Garlan", "Garon", "Guyton", "Jamarr", "Jamile", "Jarel", "Jimarcus", "Kalman", "Kaynard", "Kea", "Keisha", "Kenard", "Keyon", "Kieran", "Kordell", "Lamar", "Laran", "Larent", "Larice", "Larmar", "Laron", "Lorette", "Malene", "Marton", "Montrose", "Nandor", "Nikkya", "Noriel", "Nyesha", "Odrienne", "Oliviel", "Ramell", "Rashard", "Sakine", "Seanne", "Serek", "Shalese", "Shannel", "Shantair", "Shantese", "Sylvian", "Taishe", "Tameron", "Teillan", "Temil", "Tiguent", "Trejean", "Trinne", "Tyshell", "Umar", "Valentin", "Vantrice", "Vaurin", "Veleris", "Vignerion", "Volette", "Vondrier", "Wandalyn", "Yevette", "Zalan", "Zohar", "Zsanett"],
+		"Tycherosi":["Ahuaiti", "Aia", "Aketu", "Akona", "Amiria", "Anaru", "Anewa", "Ani", "Aperira", "Arana", "Arona", "Ataahua", "Atamarie", "Atmaca", "Enoka", "Erihapeti", "Eriki", "Eti", "Hakina", "Hamuera", "Harakoke", "Heeni", "Heriko", "Hohepa", "Huatare", "Imua", "Karauna", "Kauri", "Kiwi", "Lagal", "Lemtuna", "Makareta", "Makei", "Makutu", "Meirion", "Mere", "Munu", "Neina", "Nepe", "Oea", "Oenga", "Pahu", "Paipa", "Pakanga", "Pakeka", "Pianga", "Pihere", "Pihopa", "Pikari", "Raharuhi", "Raiepe", "Rakina Au", "Ramarie", "Rara", "Raru", "Rere", "Taiko", "Taneti", "Tapu", "Tarore", "Te Pura", "Teira", "Tereiti", "Timoti", "Turi", "Ukuroa", "Urepa", "Urepo", "Uru Manau", "Uru Pari", "Uruanga", "Uruewa", "Wai Paku", "Waiapi", "Watihana", "Wetere", "Wihone", "Winiata", "Wirihana"],
+		"Severosi":["Abaka", "Aljaiemur", "Arslan", "Ashigh", "Batachikhan", "Battsetseg", "Batukhan", "Bayana", "Berude", "Bodonchar", "Bogarji", "Bolormaa", "Bora", "Boshigt", "Bukidai", "Bulad", "Buyantu", "Buyirugh", "Chidukhul", "Chimbai", "Darbai", "Devet", "Dinget", "Dogshin", "Dokholkhu", "Dokuz", "Durraimur", "Elbek", "Etugen", "Gambu", "Ganengri", "Geser", "Ghunan", "Guchlug", "Gughlug", "Harghasun", "Hujaghur", "Idris", "Ilugei", "Jakha", "Jiguur", "Jirandai", "Kamala", "Kegen", "Khali", "Khalja", "Khan", "Kharchu", "Khatum", "Khongkhai", "Khorchi", "Khorihile", "Khuril", "Kulug", "Medekhgui", "Nayaga", "Nogai", "Ogele", "Sartak", "Shigi-Qutuqu", "Sibaguchu", "Sorghaghtani Beki", "Tatatunga", "Tebengri", "Terbish", "Tsolmon", "Tugan", "Tumbinai", "Turakina", "Turi", "Ublugh", "Ukuroa", "Urepa", "Urepo", "Uru Pari", "Uruanga", "Yalavech"]
+		},
+	"last names" : {
+		"Akorosi":["Arran", "Athanoch", "Babington", "Barney", "Becker", "Benson", "Berkeley", "Bing", "Boden", "Booker", "Bowman", "Brogan", "Clelland", "Clermont", "Coleburn", "Comber", "Cotton", "Cridland", "Dalmore", "Danfield", "Davenport", "Debenham", "Delve", "Denbow", "Denholm", "Dunvil", "Eastaughffe", "Farros", "Fawcett", "Goody", "Grine", "Hackney", "Hadlee", "Haley", "Harpham", "Helker", "Helles", "Hilburn", "Hurley", "Keel", "Kendal", "Kenley", "Kimberly", "Kinclaith", "Knapton", "Lancaster", "Landon", "Langdon", "Leighton", "Lester", "Lomond", "Maroden", "Michter", "Morriston", "Northcott", "Payton", "Penderyn", "Prichard", "Ramsay", "Ridley", "Rodney", "Rowan", "Sandford", "Sevoy", "Slane", "Strangford", "Strathmill", "Templeton", "Tyrconnell", "Vale", "Welker"],
+		"Skovlander":["Aaby", "Aunan", "Bentson", "Braaten", "Breakiron", "Brogan", "Caderyn", "Dahling", "O'Doherty", "O'Donnell", "O'Dwyer", "Egner", "O'Farrell", "Fjeld", "Fjelde", "Folstad", "Fure", "Gjerde", "Haig", "Hawken", "Horn", "Houg", "Ihle", "Karstas", "O'Keeffe", "Kildahl", "Kinclaith", "Lande", "Langseth", "O'Leary", "Lillegard", "Lindahl", "O'Mahony", "McLoughlin", "Michaelsen", "Nordhagen", "Norgaard", "Odland", "Ostenson", "Oye", "O'Reilly", "Ritland", "Rostad", "O'Shea", "Sheehan", "Skelkallan", "Skora", "Smedberg", "Tanberg", "Thygesen", "Tyrconnell", "Ulvestad", "Varvik", "Walund"],
+		"Iruvian":["Adarburzin", "Akaana", "Anixis", "Ankhayat", "Ankhuset", "Anserekh", "Arkhaya", "Avrathi", "Azu", "Basran", "D'har", "Daava", "Diala", "Hakar", "Havran", "Jaha", "Jayaan", "Jeduin", "Ka'asa", "Kardera", "Kessarin", "Khara", "Khuran", "Klevanu", "Kutu", "Maat", "Masura", "Nahjan", "Nijira", "Nur", "Nushirvan", "Nuvket", "Saha", "Sanaat", "Sesereth", "Siakaru", "Siatu", "Siketset", "Suresh", "Vaati", "Yara", "Zayana"],
+		"Dagger Islander":["Allen", "Antal", "Beard", "Bonnet", "Constantine", "Crosse", "Dorinn", "Dudas", "Fabyan", "Fehar", "Fennel", "Fooard", "Furnell", "Furtade", "Gaspar", "Gilbert", "Glanville", "Goudie", "Guyot", "Hoy", "Huet", "Ingram", "Kiraly", "Kirby", "Lacampaigne", "Lassels", "Latimer", "Legrasse", "Lendall", "Malabre", "Martin", "Merchant", "Minot", "Moran", "Morant", "Morley", "Nagy", "Nemes", "Ogilvie", "Ottey", "Pandarvas", "Pantofflett", "Picairn", "Pinter", "Poynter", "Ravin", "Rayner", "Rear", "Renouf", "Sandor", "Savonnett", "Seegel", "Speediarah", "Stillard", "Tamas", "Thwaites", "Tierney", "Tiffin", "Uniack", "Urqhart", "Uton", "Vance", "Veres", "Victorie", "Vineyom", "Vylder", "Wignell", "Zerue "],
+		"Tycherosi":[""],
+		"Severosi":[""]
+	},
+	
+	"nicknames" : ["Bell", "Birch", "Bricks", "Bug", "Chime", "Coil", "Cricket", "Cross", "Crow", "Echo", "Flint", "Frog", "Frost", "Grip", "Gunner", "Hammer", "Hook", "Junker", "Mist", "Moon", "Nail", "Needle", "Ogre", "Pool", "Ring", "Ruby", "Silver", "Skinner", "Song", "Spur", "Tackle", "Thistle", "Thorn", "Tick-Tock", "Twelves", "Vixen", "Whip", "Wicker", "Matchstick", "Nines", "Skull", "Joker", "Gull", "Star", "Smiley", "Hawk","Keys","Clown"],
+	
+	"races" : ["Akorosi", "Tycherosi", "Skovlander", "Iruvian", "Dagger Islander", "Severosi"],
+
+    "reputations" : ["troublesome","unremarkable","well-known","respected","infamous"],
+
+    "conflicts" : ["None","having a disagreement", "clashing","on the run from"],
+
+	"occupations" : [{"occName":"lookout" , "useFaction":true}, {"occName":"thug" , "useFaction":true}, {"occName":"supplier" , "useFaction":true}, {"occName":"fence" , "useFaction":true}, {"occName":"fixer" , "useFaction":true}, {"occName":"forger" , "useFaction":true}, {"occName":"tinkerer" , "useFaction":true}, {"occName":"informant" , "useFaction":true}, {"occName":"launderer" , "useFaction":true}, {"occName":"client" , "useFaction":true}, {"occName":"patron" , "useFaction":true}, {"occName":"stitcher" , "useFaction":true},
+	{"occName":"shokeeper" , "useFaction":false},{"occName":"accountant" , "useFaction":false},{"occName":"archivist" , "useFaction":false},{"occName":"farmer" , "useFaction":false},{"occName":"hobo" , "useFaction":false},{"occName":"refugee" , "useFaction":false},{"occName":"physicker" , "useFaction":false},{"occName":"Gondolier" , "useFaction":false},{"occName":"Spirit Warden" , "useFaction":false},{"occName":"Leviathan Hunter" , "useFaction":false},{"occName":"Constable" , "useFaction":false},{"occName":"Constable" , "useFaction":false},
+	{"occName":"Salamander" , "useFaction":false},{"occName":"prison warden" , "useFaction":false},{"occName":"sailor" , "useFaction":false},{"occName":"laborer" , "useFaction":false},{"occName":"cabbie" , "useFaction":false},{"occName":"ink rake" , "useFaction":false},{"occName":"Sparkwright" , "useFaction":false},{"occName":"cypher" , "useFaction":false}],
+	
+	"factions" : ["the Unseen", "the Hive", "the Circle of Flame", "the Silver Nails", "Lord Scurlock", "the Crows", "the Lampblacks", "the Red Sashes", "the Dimmer Sisters", "the Grinders", "the Billhooks", "the Wraiths", "the Gray Cloaks", "Ulf Ironborn", "the Fog Hounds", "the Lost", 
+	"the Imperial Military", "the City Council", "the Ministry of Preservation", "the Leviathan Hunters", "Ironhook Prison", "the Sparkwrights", "the Spirit Wardens", "the Bluecoats", "the Inspectors", "the Iruvian Consulate", "the Skovlan Consulate", "the Brigade", "the Severosi Consulate", "the Dagger Isles Consulate", 
+	"the Foundation", "the Dockers", "the Gondoliers", "the Sailors", "the Laborers", "the Cabbies", "the Cyphers", "the Ink Rakes", "the Rail Jacks", 
+	"the Church of Ecstasy", "the Horde", "the Path of Echoes", "a local cult", "the Reconciled", "the Skovlander Refugees", "the Weeping Lady", "the Deathlands Scavengers",
+	"hire"],
+	
+	"regions" : ["Whitecrown", "Brightstone", "Six Towers", "Charterhall", "Nightmarket", "Silkshore", "Coalridge", "the Docks", "Crow's Foot", "Dunslough", "Barrowcleft", "Charhollow"],
+	
+	"habits" : ["leading a prayer group", "among cultists", "preaching on a street corner", 
+	"at a back alley card or dice game", "betting on the races", "in a local gambling den", 
+	"hosting a lavish party", "at expensive shops and eateries", "hunting down expensive curios", 
+	"sending money and letters", "out with their family", "visiting a specific person", 
+	"indulging in the arts", "sneaking into a brothel", "indulging in drugs and alcohol", 
+	"passed out drunk", "bruised, beaten, and knocked out", "in a drug-induced stupor", 
+	"consorting with spirits", "brewing and ingesting unknown elixers", "performing some kind of ritual"],
+	
+	"quirks" : ["They have a family member or associate in Ironhook Prison.", 
+	"They are being haunted by a ghost.", 
+	"They have caught the attention of a Demon or Forgotten God.", 
+	"They have a bounty on them in another city.", 
+	"They have Radiant Poisoning.", 
+	"They have a family member on the police force.", 
+	"They are having an illicit affair.", 
+	"They are working undercover for another faction.", 
+	"They have a safe deposit box with incriminating evidence and/or valuables.", 
+	"They are harboring a wanted fugitive.", 
+	"They are a member of a secret society or cult.",
+	"They have a buried stash somewhere in or near the city.",
+	"They make regular trips to the Deathlands.",
+	"They owe a debt to a powerful group or entity.",
+	"They have a curse inflicted on them by an associate or entity.",
+	"They take constant medication for a rare and/or debilitating disease.",
+	"They have a strong moral or religious code they refuse to break.",
+	"They are fond of a specific drug or alcohol.",
+	"They are trying to win the favor of a romantic or professional interest.",
+	"They are being slowly poisoned by someone close to them.",
+	"They have recently served a lengthy term in Ironhook Prison.",
+	"They are currently on probation and have a Bluecoat officiant.",
+	"They are currently preparing to become a Vampire, a Hull, or a Path of Echoes Devotee.",
+	"They have a secret workshop, a laboratory, a ritual sanctum, or a panic room.",
+	"They carry an ornate or illegally modified weapon."
+	]
+}

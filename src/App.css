@@ -1,0 +1,145 @@
+.bounds {
+    border: solid red 2px;
+}
+
+.main-container {
+    width: 90vw;
+    height: 90vh;
+    display: flex;
+    box-shadow: 0px 0px 20px red;
+    outline: solid 2px black;
+    background-color: black;
+}
+
+.main-container::after {
+    content: "";
+    box-shadow: 0px 0px 20px red inset;
+}
+
+.input-container {
+    height: 100%;
+    width: 20%;
+    display: flex;
+    flex-direction: column;
+}
+
+.output-container {
+    height: 100%;
+    width: 60%;
+}
+
+.image-container {
+    height: 100%;
+    width: 20%;
+    padding: 0px;
+    margin-left: 5px;
+}
+
+.splash-art {
+    object-fit:cover;
+    object-position: top left;
+}
+
+.m-10 {
+    margin: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: darkgray;
+    box-shadow: 0px 0px 10px black inset;
+}
+
+.header-height {
+    height: 80px;
+}
+
+.header-height-output {
+    height: 50px;
+    padding: 0px;
+}
+
+.fill-height {
+    height: 100%;
+}
+
+.output-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.output-text-container {
+    background-color: darkgrey;
+    height: 100%;
+}
+
+#generateButton {
+    width: 100%;
+    height: 100%;
+    background-color: red;
+}
+
+#generateButton:active {
+    background-color: darkred;
+    box-shadow: 0px 0px 5px red inset;
+}
+
+.button-style {
+    background-color: red;
+}
+
+.button-style:active {
+    background-color: darkred;
+    box-shadow: 0px 0px 5px red inset;
+}
+
+#manualMode {
+    accent-color: red;
+}
+
+.output-header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.m-10-h {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.lock-out {
+    background-color: rgb(119, 119, 119);
+    user-select: none;
+    pointer-events: none;
+}
+
+.back-button-bitd {
+    position: relative;
+    bottom: 99%;
+    left: 70%;
+    background-color: red;
+    padding: 1px;
+    border: solid black 2px;
+}
+
+.back-button-bitd:visited {
+    color: black;
+}
+
+.back-button-bitd:link {
+    color: black;
+}
+
+.user-controls-container {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    padding-left: 10px;
+}
+
+.output-text {
+    font-size: 2.5em;
+    padding-left: 30px;
+    padding-right: 30px;
+    align-self: flex-start;
+}
