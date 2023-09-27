@@ -22,7 +22,7 @@
 
     "reputations" : ["troublesome","unremarkable","well-known","respected","infamous"],
 
-    "conflicts" : ["None","having a disagreement", "clashing","on the run from"],
+    "conflicts" : ["none","having a disagreement with", "clashing with","on the run from"],
 
 	"occupations" : [{"occName":"lookout" , "useFaction":true}, {"occName":"thug" , "useFaction":true}, {"occName":"supplier" , "useFaction":true}, {"occName":"fence" , "useFaction":true}, {"occName":"fixer" , "useFaction":true}, {"occName":"forger" , "useFaction":true}, {"occName":"tinkerer" , "useFaction":true}, {"occName":"informant" , "useFaction":true}, {"occName":"launderer" , "useFaction":true}, {"occName":"client" , "useFaction":true}, {"occName":"patron" , "useFaction":true}, {"occName":"stitcher" , "useFaction":true},
 	{"occName":"shokeeper" , "useFaction":false},{"occName":"accountant" , "useFaction":false},{"occName":"archivist" , "useFaction":false},{"occName":"farmer" , "useFaction":false},{"occName":"hobo" , "useFaction":false},{"occName":"refugee" , "useFaction":false},{"occName":"physicker" , "useFaction":false},{"occName":"Gondolier" , "useFaction":false},{"occName":"Spirit Warden" , "useFaction":false},{"occName":"Leviathan Hunter" , "useFaction":false},{"occName":"Constable" , "useFaction":false},{"occName":"Constable" , "useFaction":false},
